@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\Programming\C++\Kickstart\2022\Round D\ImageLabeler\ImageLabeler\Source.cpp(146,17): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Programming\C++\Kickstart\2022\Round D\ImageLabeler\ImageLabeler\Source.cpp(147,17): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Programming\C++\Kickstart\2022\Round D\ImageLabeler\ImageLabeler\Source.cpp(154,17): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  ImageLabeler.vcxproj -> D:\Programming\C++\Kickstart\2022\Round D\ImageLabeler\Debug\ImageLabeler.exe
